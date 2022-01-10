@@ -1,0 +1,9 @@
+# backend ignored files:
+
+
+backend/node_modules
+backend/package-lock.json
+
+#Variables de entorno:
+
+.env
